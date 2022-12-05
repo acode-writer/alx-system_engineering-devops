@@ -13,6 +13,7 @@
 * [Write into file the result of a command](./8-cwd_state)
 * [Duplicate the last line](./9-duplicate_last_line)
 * [Delete regular files wtih .js extension](./10-no_more_js)
+* [Count number of direcories and subdirectories](./11-directories)
 
 
 ## Tasks
@@ -38,3 +39,5 @@ Task 8 write into file the result of the the commande ls -la
 Task 9 duplicate the last line of the file iacta
 
 Task 10 delete all the regular files with .js extension that are present in the current directory ans its subfolders.
+
+Task 11 count the number of directories and subdirectories in the current directory. 
