@@ -8,7 +8,8 @@
 * [Print content od two file](./3-twofiles)
 * [Print last lines of file](./4-lastlines)
 * [Print first lines of file](./5-firstlines)
-* [Print the third line of file](.65-third_line)
+* [Print the third line of file](.6-third_line)
+* [Create a file with weird name](.7-file)
 
 
 ## Tasks
@@ -26,3 +27,5 @@ Task 4 display the last 10 lines of /etc/passwd
 Task 5 display the first 10 lines of /etc/passwd
 
 Task 6 display the third line of the file iacta
+
+Task 7 create a file who has the name \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
