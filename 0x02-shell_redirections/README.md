@@ -11,6 +11,7 @@
 * [Print the third line of file](.6-third_line)
 * [Create a file with weird name](.7-file)
 * [Write into file the result of a command](./8-cwd_state)
+* [Duplicate the last line](./9-duplicate_last_line)
 
 
 ## Tasks
@@ -32,3 +33,5 @@ Task 6 display the third line of the file iacta
 Task 7 create a file who has the name \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
 
 Task 8 write into file the result of the the commande ls -la
+
+Task 9 duplicate the last line of the file iacta
