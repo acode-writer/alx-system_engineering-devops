@@ -10,6 +10,7 @@
 * [Print first lines of file](./5-firstlines)
 * [Print the third line of file](.6-third_line)
 * [Create a file with weird name](.7-file)
+* [Write into file the result of a command](./8-cwd_state)
 
 
 ## Tasks
@@ -29,3 +30,5 @@ Task 5 display the first 10 lines of /etc/passwd
 Task 6 display the third line of the file iacta
 
 Task 7 create a file who has the name \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+
+Task 8 write into file the result of the the commande ls -la
