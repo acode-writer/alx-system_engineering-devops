@@ -15,6 +15,7 @@
 * [Delete regular files wtih .js extension](./10-no_more_js)
 * [Count number of direcories and subdirectories](./11-directories)
 * [Print the 10 newest files in the current directory](./12-newest_file)
+* [Print list of unique words](./13-unique)
 
 
 ## Tasks
@@ -44,3 +45,5 @@ Task 10 delete all the regular files with .js extension that are present in the 
 Task 11 count the number of directories and subdirectories in the current directory. 
 
 Task 12 dislay the 10 newest files in the current directoy sorted from the newest to the oldest and one file per line
+
+Task 13 take a list of words as input and prints only words that appear exactly once.
