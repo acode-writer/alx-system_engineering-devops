@@ -21,6 +21,7 @@
 * [Print lines containing the pattern "root" and 3 lines after them](./16-whatsnext)
 * [Print lines that not contain the pattern "bin" in a file](./17-hidethisword)
 * [Print lines starting with a letter](./18-letteonly)
+* [Replace character A and c to Z and e](./19-AZ)
 
 
 ## Tasks
@@ -61,4 +62,6 @@ Task 16 display lines containing the pattern "root" and 3 lines after them  in t
 
 Task 17 display lines that not  contain the pattern "bin" in the file /etc/passwd
 
-Task 87 display all lines of the file /etc/ssh/sshd_config starting with a letter
+Task 18 display all lines of the file /etc/ssh/sshd_config starting with a letter
+
+Task 19 replace all characters A and c from input to Z and e respectively
