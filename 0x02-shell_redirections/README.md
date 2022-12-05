@@ -23,6 +23,7 @@
 * [Print lines starting with a letter](./18-letteonly)
 * [Replace character A and c to Z and e](./19-AZ)
 * [Remove all letters c and C](./20-hiago)
+* [Reverse the inputs](./21-reverse)
 
 
 ## Tasks
@@ -68,3 +69,5 @@ Task 18 display all lines of the file /etc/ssh/sshd_config starting with a lette
 Task 19 replace all characters A and c from input to Z and e respectively
 
 Task 20 remove all characters C and c from input.
+
+Task 21 reverse its input
