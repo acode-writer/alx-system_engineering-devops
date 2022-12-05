@@ -12,6 +12,7 @@
 * [Create a file with weird name](.7-file)
 * [Write into file the result of a command](./8-cwd_state)
 * [Duplicate the last line](./9-duplicate_last_line)
+* [Delete regular files wtih .js extension](./10-no_more_js)
 
 
 ## Tasks
@@ -35,3 +36,5 @@ Task 7 create a file who has the name \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
 Task 8 write into file the result of the the commande ls -la
 
 Task 9 duplicate the last line of the file iacta
+
+Task 10 delete all the regular files with .js extension that are present in the current directory ans its subfolders.
