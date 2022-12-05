@@ -18,6 +18,7 @@
 * [Print list of unique words](./13-unique)
 * [Print lines containing the pattern "root"](./14-findthatword)
 * [Count lines containing the pattern "bin"](./15-counthatword)
+* [Print lines containing the pattern "root" and 3 lines after them](./16-whatsnext)
 
 
 ## Tasks
@@ -53,3 +54,5 @@ Task 13 take a list of words as input and prints only words that appear exactly 
 Task 14 display the lines containing the pattern "root" from the file /etc/passwd
 
 Task 15 display the number of lines containing the pattern "bin" in the file /etc/passwd
+
+Task 16 display lines containing the pattern "root" and 3 lines after them  in the file /etc/passwd
