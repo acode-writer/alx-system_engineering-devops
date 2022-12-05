@@ -16,7 +16,8 @@
 * [Count number of direcories and subdirectories](./11-directories)
 * [Print the 10 newest files in the current directory](./12-newest_file)
 * [Print list of unique words](./13-unique)
-* [Print lines containing the pattern root](./14-findthatword)
+* [Print lines containing the pattern "root"](./14-findthatword)
+* [Count lines containing the pattern "bin"](./15-counthatword)
 
 
 ## Tasks
@@ -50,3 +51,5 @@ Task 12 dislay the 10 newest files in the current directoy sorted from the newes
 Task 13 take a list of words as input and prints only words that appear exactly once.
 
 Task 14 display the lines containing the pattern "root" from the file /etc/passwd
+
+Task 15 display the number of lines containing the pattern "bin" in the file /etc/passwd
