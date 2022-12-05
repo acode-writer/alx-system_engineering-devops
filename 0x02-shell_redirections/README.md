@@ -24,6 +24,7 @@
 * [Replace character A and c to Z and e](./19-AZ)
 * [Remove all letters c and C](./20-hiago)
 * [Reverse the inputs](./21-reverse)
+* [Print all users and theirs home dirextories](./22-users_and_homes)
 
 
 ## Tasks
@@ -71,3 +72,5 @@ Task 19 replace all characters A and c from input to Z and e respectively
 Task 20 remove all characters C and c from input.
 
 Task 21 reverse its input
+
+Task 22 display all users and their home directories sorted by users
