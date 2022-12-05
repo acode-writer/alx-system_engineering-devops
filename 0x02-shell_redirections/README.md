@@ -20,6 +20,7 @@
 * [Count lines containing the pattern "bin"](./15-counthatword)
 * [Print lines containing the pattern "root" and 3 lines after them](./16-whatsnext)
 * [Print lines that not contain the pattern "bin" in a file](./17-hidethisword)
+* [Print lines starting with a letter](./18-letteonly)
 
 
 ## Tasks
@@ -59,3 +60,5 @@ Task 15 display the number of lines containing the pattern "bin" in the file /et
 Task 16 display lines containing the pattern "root" and 3 lines after them  in the file /etc/passwd
 
 Task 17 display lines that not  contain the pattern "bin" in the file /etc/passwd
+
+Task 87 display all lines of the file /etc/ssh/sshd_config starting with a letter
